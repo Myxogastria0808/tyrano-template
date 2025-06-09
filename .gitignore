@@ -1,5 +1,10 @@
 # TyranoScript
 /src/*
 !/src/.gitkeep
-/tmp/*
-!/tmp/.gitkeep
+tyranoscript_v602b.zip
+
+# JavaScript
+/node_modules
+
+# Nix
+/.direnv
