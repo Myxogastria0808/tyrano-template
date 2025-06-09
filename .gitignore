@@ -1,0 +1,5 @@
+# TyranoScript
+/src/*
+!/src/.gitkeep
+/tmp/*
+!/tmp/.gitkeep
