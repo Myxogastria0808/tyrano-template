@@ -1,4 +1,4 @@
-#!bin.bash
+#!bin/bash
 
 # check is root of tyrano-template Repository
 if [ -e ./.tyrano-template-root ]; then
@@ -23,7 +23,7 @@ if [ -e ./.tyrano-template-root ]; then
         exit 0
     fi
 else
-    echo "This script must be run from the root of a TyranoScript project."
+    echo "This script must be run from the root of tyrano-template Repository."
     echo "Please navigate to the project directory and try again."
     exit 1
 fi
