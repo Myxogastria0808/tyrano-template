@@ -1,0 +1,22 @@
+{
+  "name": "tyrano-template",
+  "version": "0.0.0",
+  "description": "",
+  "main": "./src/index.html",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Myxogastria0808/tyrano-template.git"
+  },
+  "author": "Yuki Osada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Myxogastria0808/tyrano-template/issues"
+  },
+  "homepage": "https://github.com/Myxogastria0808/tyrano-template#readme",
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
